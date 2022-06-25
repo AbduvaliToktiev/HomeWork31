@@ -13,7 +13,4 @@ public enum DayOfTheWeek {
         return translate;
     }
 
-    public String toString() {
-        return "Перевод на русский язык: " + translate;
-    }
 }
